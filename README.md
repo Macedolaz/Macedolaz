@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gabriel Macedo and I'm a student and technology and programming enthusiast!</h2>
+<h2 align="left">Hi 👋! My name is Gabriel Macedo. I'm a student and technology programming enthusiast!</h2>
 
 ###
 
